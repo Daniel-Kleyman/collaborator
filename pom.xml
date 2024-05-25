@@ -15,6 +15,9 @@
     <version>0.0.1</version>
     <name>access-analyzer</name>
     <description>Parent access analyzer and requests blocker project</description>
+    <modules>
+        <module>Daniel</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
